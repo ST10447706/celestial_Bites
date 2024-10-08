@@ -1,0 +1,29 @@
+{
+    "starters": [
+      {
+        "id": 1,
+        "name": "Bruschetta",
+        "description": "Grilled bread topped with diced tomatoes, garlic, and basil.",
+        "price": 28.99
+      },
+      {
+        "id": 2,
+        "name": "Stuffed Mushrooms",
+        "description": "Mushrooms stuffed with cheese, garlic, and herbs.",
+        "price": 25.99
+      },
+      {
+        "id": 3,
+        "name": "Shrimp Cocktail",
+        "description": "Chilled shrimp served with a tangy cocktail sauce.",
+        "price": 21.99
+      },
+      {
+        "id": 4,
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan.",
+        "price": 29.99
+      }
+    ]
+  }
+  

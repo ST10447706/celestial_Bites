@@ -1,0 +1,28 @@
+{
+  "main": [
+    {
+      "id": 1,
+      "name": "Beef burger and chips",
+      "description": "Grilled beef  topped with diced tomatoes, garlic, and basil and chips.",
+      "price": 79.99
+    },
+    {
+      "id": 2,
+      "name": "alfredo pasta",
+      "description": "Mushrooms stuffed with cheese, garlic, and herbs bacon and chicken breasts.",
+      "price": 105.99
+    },
+    {
+      "id": 3,
+      "name": "Lasanga",
+      "description": "Chilled mince served with a tangy cocktail sauce.",
+      "price": 120.99
+    },
+    {
+      "id": 4,
+      "name": "Pizza",
+      "description": "Crisp bacon  romaine avacado , mushrooms  with , croutons, and Parmesan.",
+      "price": 95.99
+    }
+  ]
+}

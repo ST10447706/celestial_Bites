@@ -1,0 +1,29 @@
+{
+    "desserts": [
+      {
+        "id": 1,
+        "name": "Malva pudding",
+        "description": "strawberry  and cream / ice cream.",
+        "price": 45.99
+      },
+      {
+        "id": 2,
+        "name": "Cheesecake",
+        "description": "oreo/peppermint/chocolate sauce.",
+        "price": 35.99
+      },
+      {
+        "id": 3,
+        "name": "Tiramisu",
+        "description": "crushed chocolate.",
+        "price": 75.99
+      },
+      {
+        "id": 4,
+        "name": "lemon merigue",
+        "description": "frozen/chilled.",
+        "price": 60.99
+      }
+    ]
+  }
+  
